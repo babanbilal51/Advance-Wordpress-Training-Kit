@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="images/favicon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700,800,900,600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<title>Advance WordPress Mastery Kit</title>
+
+</head>
+
+<body>
+
+
+
+
+<div class="header">
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12">
+<img src="images/logo1.png" width="310px" class="img-responsive center-block">
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12 spacer4">
+<h2 class="text-center"><strong>Download Your Package</strong></h2><br/><br/>
+<img src="images/product1.png" width="400" class="img-responsive center-block spacer2">
+<h3 class="text-center"><a href="#">Click here to Download HD Training Videos</a></h3>
+<br/><br/>
+<img src="images/guide.png" width="400" class="img-responsive center-block spacer2">
+<h3 class="text-center"><a href="#">Click here to Download Training Guide</a></h3>
+<br/><br/>
+<img src="images/cheatsheet1.png" width="400" class="img-responsive center-block spacer2">
+<h3 class="text-center"><a href="#">Click here to Download Cheat Sheet</a></h3>
+<br/><br/>
+<img src="images/mindmap1.png" width="350" class="img-responsive center-block spacer2">
+<h3 class="text-center"><a href="#">Click here to Download Mind Map</a></h3>
+<br/><br/>
+<img src="images/topresourcerepoet1.png" width="500" class="img-responsive center-block spacer2">
+<h3 class="text-center"><a href="#">Click here to Download Top Resource Report</a></h3>
+
+<br><br>
+
+<table class="table table-responsive table-bordered spacer4  table-striped table-hover">
+<tr><td class="s18 bold">Training Video #1 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #11 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #2 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #12 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #3 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #13 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #4 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #14 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #5 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #15 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #6 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #16 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #7 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #17 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #8 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #18 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #9 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #19 </td><td class="s18"><a href="#">Download</a></td></tr>
+<tr><td class="s18 bold">Training Video #10 </td><td class="s18"><a href="#">Download</a></td><td class="s18 bold">Training Video #20 </td><td class="s18"><a href="#">Download</a></td></tr>
+</table>
+
+To your Success,<br><br>
+
+<b>Your Name</b><br>
+Your Company Name<br>
+Your Website URL
+
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="lightblock spacer2">
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12 text-right">
+<a href="t-and-c.html" target="_blank">Terms & Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="privacy-policy.html" target="_blank">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="anti-spam.html" target="_blank">Anti Spam</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank">DMCA</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="disclaimer.html" target="_blank">Disclaimer</a>
+</div>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
